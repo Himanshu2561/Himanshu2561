@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Himanshu2561
+- 👋 Hi, I’m Himanshu Rathore
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Development frameworks
 - 💞️ I’m looking to collaborate on Open source projects
