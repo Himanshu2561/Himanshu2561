@@ -16,6 +16,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![](https://komarev.com/ghpvc/?username=Himanshu2561&color=blueviolet&style=for-the-badge&label=VISITORS+COUNT&abbreviated=true)
-
 ---
