@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on brushing my skills<br>👯 I’m looking to collaborate on opensource projects<br>🤝 I’m looking for help with getting a position in tech where i can laverage my skills
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rathore25himanshu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Himanshu25061) 
 
