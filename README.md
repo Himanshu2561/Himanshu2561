@@ -40,7 +40,7 @@ mindmap
 
 ### 
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshu2561&bg_color=0d1117&color=00e676&line=00e676&point=ffffff&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshu2561&bg_color=0d1117&color=00e676&line=00e676&point=ffffff&area=true&hide_border=true&custom_title=Activity%20Graph&days=45)
 
 
 ### 🤝 Connect with Me  
