@@ -1,72 +1,40 @@
 # 👋 Hi, I'm Himanshu Rathore  
 ### 💻 Full Stack Engineer | AI/ML Enthusiast | Agentic AI Dev  
 
-🚀 Software Engineer at **[HashInclude](https://www.hashinclude.in/)** | Building scalable platforms at the intersection of **data, AI/ML, and infra**. Passionate about developer experience, product thinking, and intelligent systems.
+🚀 Software Engineer at **[HashInclude](https://www.hashinclude.in/)** | Engineer at the intersection of code and intelligence — building full-stack apps with an AI edge.
+Dedicated to pushing boundaries in ML and agentic AI development.
 
 
 ### ⚡ Tech Snapshot
 
 ```mermaid
 mindmap
-  root((Skills))
+  root((Technical Skills))
     ((Languages))
       Python
-      JavaScript
       TypeScript
-      R
-      SQL
-      Bash
-      PowerShell
-    ((Frameworks))
+      JavaScript
+    ((Frontend))
       React
-      Flask
-      Django
-      FastAPI
-      Express
-      Electron
       Next.js
-      Dash
-      R-Shiny
-      Streamlit
-      Pydantic
-      SQLAlchemy
-    ((UI))
-      Material-UI
-      Tailwind
-      Shadcn-UI
-      Ant Design
-      Bootstrap
-    ((AI/ML))
-      PyTorch
-      TensorFlow
-      Plotly
-      D3.js
-      Pandas
-      NumPy
-      Matplotlib
-      Seaborn
-      Scikit-Learn
-      Langchain
-    ((DevOps))
-      Git
+    ((Backend))
+      FastAPI
+      Flask
+    ((Databases))
+      PostgreSQL
+      Redis
+    ((AI Tools))
+      MemGPT
+      LangChain
+      Qdrant
+    ((Cloud/DevOps))
+      GCP
+        Cloud Run
+        GCP CLI
       Docker
-      CircleCI
       GitHub Actions
-    ((Cloud))
-      AWS
-        S3
-        Lambda
-        SageMaker
-        SageMaker-Studio
-        Batch
-        ECR
-        Fargate
-        EC2
-        Workspaces
-        Neptune
-        ECS
-        Load Balancer
-      Terraform
+      CI/CD Pipelines
+      Remote Linux Servers
 ```
 
 
