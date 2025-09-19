@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Himanshu Rathore  
 ### 💻 Full Stack Engineer | AI/ML Enthusiast | Agentic AI Dev  
 
-🚀 Software Engineer at **[Elucidata](https://www.hashinclude.in/)** | Building scalable platforms at the intersection of **data, AI/ML, and infra**. Passionate about developer experience, product thinking, and intelligent systems.
+🚀 Software Engineer at **[HashInclude](https://www.hashinclude.in/)** | Building scalable platforms at the intersection of **data, AI/ML, and infra**. Passionate about developer experience, product thinking, and intelligent systems.
 
 
 ### ⚡ Tech Snapshot
@@ -71,11 +71,6 @@ mindmap
 
 
 ### 🤝 Connect with Me  
-[🌐 Portfolio](https://pratik-kumar.netlify.app) · [💼 LinkedIn](https://linkedin.com/in/pratik-kumar04) · [🧑‍💻 GitHub](https://github.com/pr2tik1) · [📝 Substack](https://pratikkumar.substack.com) · 📧 **pr2tik1@gmail.com**
+[🌐 Portfolio]() · [💼 LinkedIn](https://linkedin.com/in/rathore25himanshu) · [🧑‍💻 GitHub](https://github.com/himanshu2561) · 📧 **himanshu.rathore2561@gmail.com**
 
 Thanks for visiting! ✨ Let's build something awesome together.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu2561&show_icons=true&theme=dark" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=himanshu2561&theme=dark&hide_border=true" width="400">
-</p>
