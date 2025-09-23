@@ -8,6 +8,10 @@ Dedicated to pushing boundaries in ML and agentic AI development.
 ### ⚡ Tech Snapshot
 
 ```mermaid
+---
+config:
+  theme: neo-dark
+---
 mindmap
   root((Technical Skills))
     ((Languages))
